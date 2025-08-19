@@ -15,7 +15,7 @@ The final outputs of this project include:
 ---
 
 ## 📂 Project Structure
-ds_ekta/
+```ds_ekta/
 │── notebook_1.ipynb # Main Google Colab notebook
 │
 ├── csv_files/ # Raw & intermediate datasets
@@ -27,7 +27,7 @@ ds_ekta/
 │ ├── avg_trade_size.png
 │
 ├── ds_report.pdf # Final summarized report
-└── README.md # Project description & setup
+└── README.md # Project description & setup```
 
 ---
 
