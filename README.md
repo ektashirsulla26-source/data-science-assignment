@@ -15,7 +15,19 @@ The final outputs of this project include:
 ---
 
 ## 📂 Project Structure
-
+ds_ekta/
+│── notebook_1.ipynb # Main Google Colab notebook
+│
+├── csv_files/ # Raw & intermediate datasets
+│ ├── historical_data.csv
+│ ├── fear_greed_index.csv
+│
+├── outputs/ # Visual outputs & charts
+│ ├── trade_volume_by_sentiment.png
+│ ├── avg_trade_size.png
+│
+├── ds_report.pdf # Final summarized report
+└── README.md # Project description & setup
 
 ---
 
